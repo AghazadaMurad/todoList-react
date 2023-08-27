@@ -1,0 +1,9 @@
+.taskList {
+  border: 2px solid #8d99ae;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* .taskList {
+  display: none;
+} */

@@ -1,0 +1,15 @@
+.taskList ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #8d99ae;
+  color: #edf2f4;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+.taskList ul li span {
+  font-size: 18px;
+  margin-right: 30px;
+}
